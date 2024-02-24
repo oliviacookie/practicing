@@ -1,4 +1,4 @@
-# practice
+# practice makes perfect
 
 # React + TypeScript + Vite
 
